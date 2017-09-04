@@ -1,7 +1,7 @@
 USE [Lokator]
 GO
 
-/****** Object:  StoredProcedure [dbo].[spValidateUserCredentials]    Script Date: 2017-08-31 21:42:04 ******/
+/****** Object:  StoredProcedure [dbo].[spValidateUserCredentials]    Script Date: 2017-09-04 20:36:11 ******/
 SET ANSI_NULLS ON
 GO
 
