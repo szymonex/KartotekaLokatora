@@ -1,0 +1,189 @@
+﻿body {
+    padding-top: 150px;
+}
+
+.customDiv {
+    margin: 3px;
+    min-height: 300px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+.panel {
+    border: 1px;
+    border-style: solid;
+}
+
+.panel-body-padding {
+    padding: 20px;
+}
+
+.panel-heading-padding {
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+#wrongPass{
+    min-height: 100px;
+    text-align:center
+}
+
+.auto-style1 {
+    width: 81px;
+    height: 34px;
+}
+
+.auto-style2 {
+    height: 22px;
+}
+
+.auto-style5 {
+    height: 34px;
+}
+
+.auto-style6 {
+    width: 81px;
+    height: 16px;
+}
+
+.auto-style7 {
+    height: 16px;
+}
+
+.auto-style10 {
+    height: 200px;
+}
+
+.auto-style49 {
+    width: 345px;
+    height: 30px;
+}
+
+.auto-style50 {
+    height: 30px;
+    width: 8px;
+}
+
+.auto-style51 {
+    height: 40px;
+}
+
+.auto-style63 {
+    height: 39px;
+}
+
+.auto-style64 {
+    height: 31px;
+    width: 10px;
+}
+
+.auto-style65 {
+    height: 28px;
+    width: 10px;
+}
+
+.auto-style66 {
+    height: 31px;
+    width: 152px;
+}
+
+.auto-style67 {
+    height: 28px;
+    width: 152px;
+}
+
+.auto-style68 {
+    height: 31px;
+    width: 117px;
+}
+
+.auto-style69 {
+    height: 28px;
+    width: 117px;
+}
+
+.auto-style70 {
+    height: 16px;
+    width: 128px;
+}
+
+.auto-style71 {
+    height: 34px;
+    width: 128px;
+}
+
+.auto-style72 {
+    width: 255px;
+}
+
+.auto-style75 {
+    width: 480px;
+    height: 200px;
+}
+
+.auto-style76 {
+    width: 213px;
+}
+
+.auto-style77 {
+    width: 213px;
+    height: 26px;
+}
+
+.auto-style78 {
+    height: 26px;
+}
+
+.auto-style79 {
+    height: 51px;
+}
+
+.auto-style80 {
+    width: 213px;
+    height: 10px;
+}
+
+.auto-style81 {
+    height: 10px;
+}
+
+.auto-style82 {
+    width: 480px;
+    height: 200px;
+}
+
+.auto-style83 {
+    height: 117px;
+}
+
+.auto-style84 {
+    width: 480px;
+    height: 200px;
+}
+
+.auto-style85 {
+    height: 26px;
+}
+
+.auto-style86 {
+    height: 53px;
+}
+
+.auto-style87 {
+    height: 24px;
+}
+
+.auto-style88 {
+    height: 26px;
+    width: 219px;
+}
+
+.auto-style89 {
+    height: 24px;
+    width: 219px;
+}
+
+.auto-style91 {
+    width: 219px;
+}
